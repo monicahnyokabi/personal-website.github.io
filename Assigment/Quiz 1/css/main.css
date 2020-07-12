@@ -1,0 +1,25 @@
+body {
+	background-color:pink;
+}
+p{ 
+color: maroon;
+}
+h1{
+	color:purple;
+}
+
+page-border,page-margin,page-layout	{
+	page-border:0.5rem outset pink;
+	outline:o.5rem solid khaki;
+	box-shadow:0 0 0 2rem salmon;
+	border-radius:12px;
+	font:bold 1rem sans-serif;
+	margin:2rem;
+	outline-offset:0.5rem;
+}
+	
+	
+
+
+
+
